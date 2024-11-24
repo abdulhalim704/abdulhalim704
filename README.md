@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mozammal Hossain
+- 👋 Hi, I’m Abdul Halim
 - 👀 I’m interested in ... Codding 
 - 🌱 I’m currently learning ... Mobile Applicaiton Development (Flutter)
 - 💞️ I’m looking to collaborate on ... Team
