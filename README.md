@@ -33,3 +33,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhalim704&show_icons=true&locale=en" alt="abdulhalim704" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhalim704&" alt="abdulhalim704" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/abdulhalim704/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/abdulhalim704/abdulhalim704/output/snake.svg" alt="Snake animation" />
+
+###
