@@ -1,35 +1,30 @@
-- 👋 Hi, I’m Abdul Halim
-- 👀 I’m interested in ... Codding 
-- 🌱 I’m currently learning ... Mobile Applicaiton Development (Flutter)
-- 💞️ I’m looking to collaborate on ... Team
-- 📫 How to reach me ... abdulhalim704
-- 😄 Pronouns: ... halim
-- ⚡ Fun fact: ... Codding and Eat and Codding and Eat
+<h1 align="center">Hi 👋, I'm Abdul Halim</h1>
+<h3 align="center">A Flutter developer from Bangladesh</h3>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mozammal3755.mozammal3755" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhalim704&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhalim704" /> </p>
 
-<br/>
+- 🔭 I’m currently working in [10 Month Flutter](https://github.com/abdulhalim704)
 
+- 🌱 I’m currently learning **Airtabale Database, Map Implement, Chat Implement, Video Chat, Audio Calls, Push Notification,**
 
- 
+- 👯 I’m looking to collaborate on **Team**
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg  https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg  
+- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.quikkbyte.quikkbyte&pcampaignid=web_share](https://play.google.com/store/apps/details?id=com.quikkbyte.quikkbyte&pcampaignid=web_share)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **abdulhalim.work704@gmail.com**
 
-https://github-profile-trophy.vercel.app/?username=mozammal3755](https://github.com/mozammal3755/github-profile-trophy)
+- ⚡ Fun fact **Codding and Eat and Codding and Eat**
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=mozammal3755](https://github.com/mozammal3755/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-!https://github-readme-stats.vercel.app/api?username=mozammal3755&show_icons=true&count_private=true  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
-!https://api.vaunt.dev/v1/github/entities/mozammal3755/contributions?format=svg&private=true  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulhalim704&show_icons=true&locale=en&layout=compact" alt="abdulhalim704" /></p>
 
-!https://metrics.lecoq.io/mozammal3755  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulhalim704&show_icons=true&locale=en" alt="abdulhalim704" /></p>
 
-!https://streak-stats.demolab.com/?user=mozammal3755
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhalim704&" alt="abdulhalim704" /></p>
 
-<!---
-mozammal3755/mozammal3755 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
